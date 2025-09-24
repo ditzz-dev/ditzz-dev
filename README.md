@@ -3,34 +3,26 @@
   <img src="https://i.pinimg.com/originals/fd/40/a4/fd40a4b8b151c4e432106576187d03c9.gif" width="100%" alt="Anime Banner"/>
 </p>
 
-<!-- Bagian Perkenalan dengan GIF di samping -->
+<!-- Teks Perkenalan (Pasti Rapi di HP) -->
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr valign="center">
-      <td width="25%" align="center">
-        <!-- GIF Kiri (Kecil) -->
-        <img src="https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif" width="120px" alt="Pixel Cat">
-      </td>
-      <td width="50%" align="center">
-        <!-- Teks Perkenalan -->
-        <h1>Hi there, I'm ditzz-dev 👋</h1>
-        <p>A passionate developer from Indonesia, focused on crafting beautiful and functional web experiences. I love turning complex problems into simple, elegant solutions.</p>
-        <p><em>Currently exploring the worlds of Go and Rust!</em></p>
-      </td>
-      <td width="25%" align="center">
-        <!-- GIF Kanan (Kecil) -->
-         <img src="https://media.tenor.com/RvfX49xRRYoAAAAM/silly-silly-anime.gif" width="120px" alt="Silly Anime">
-      </td>
-    </tr>
-  </table>
+  <h1>Hi there, I'm ditzz-dev 👋</h1>
+  <p>A passionate developer from Indonesia, focused on crafting beautiful and functional web experiences. I love turning complex problems into simple, elegant solutions.</p>
+  <p><em>Currently exploring the worlds of Go and Rust!</em></p>
 </div>
+
+<!-- GIF Diletakkan di Bawah Teks (Pasti Rapi di HP) -->
+<p align="center">
+  <img src="https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif" width="150px" alt="Pixel Cat">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/RvfX49xRRYoAAAAM/silly-silly-anime.gif" width="150px" alt="Silly Anime">
+</p>
 
 <!-- Garis Pemisah -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/mac_header.svg" alt="Line"/>
 </p>
 
-<!-- Judul Section Baru -->
+<!-- Judul Section -->
 <h3 align="center">— 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 —</h3>
 
 <!-- Tech Stack -->
@@ -45,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/mac_header.svg" alt="Line"/>
 </p>
 
-<!-- Judul Section Baru -->
+<!-- Judul Section -->
 <h3 align="center">— 𝗠𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 —</h3>
 
 <!-- Kontribusi Pac-Man -->
