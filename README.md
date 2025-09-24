@@ -20,13 +20,12 @@
 <!-- Ini penting agar layout di bawahnya tidak rusak -->
 <br clear="all">
 
-<!-- Garis Pemisah -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/mac_header.svg" alt="Line"/>
-</p>
+<!-- ======================================================================================= -->
+<!-- BAGIAN BAWAH YANG BARU DAN MODERN -->
+<!-- ======================================================================================= -->
 
-<!-- Judul Section -->
-<h3 align="center">— 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 —</h3>
+<!-- Header Section Tech Stack -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:333,100:00BFFF&height=80&section=header&text=My%20Tech%20Stack&fontSize=35&fontColor=fff&animation=fadeIn" />
 
 <!-- Tech Stack -->
 <p align="center">
@@ -35,13 +34,10 @@
   </a>
 </p>
 
-<!-- Garis Pemisah -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/mac_header.svg" alt="Line"/>
-</p>
+<br>
 
-<!-- Judul Section -->
-<h3 align="center">— 𝗠𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆 —</h3>
+<!-- Header Section Contribution -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:333&height=80&section=header&text=Contribution%20Activity&fontSize=35&fontColor=fff&animation=fadeIn" />
 
 <!-- Kontribusi Pac-Man -->
 <p align="center">
