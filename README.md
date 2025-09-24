@@ -3,19 +3,22 @@
   <img src="https://i.pinimg.com/originals/fd/40/a4/fd40a4b8b151c4e432106576187d03c9.gif" width="100%" alt="Anime Banner"/>
 </p>
 
-<!-- Teks Perkenalan (Pasti Rapi di HP) -->
-<div align="center">
+<!-- Perkenalan Gaya Asimetris/Majalah -->
+<div>
+  <!-- GIF Kiri, teks akan mengalir di sampingnya -->
+  <img src="https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif" width="130px" align="left" style="margin-right: 20px; margin-bottom: 10px;">
+
+  <!-- Teks Perkenalan -->
   <h1>Hi there, I'm ditzz-dev 👋</h1>
   <p>A passionate developer from Indonesia, focused on crafting beautiful and functional web experiences. I love turning complex problems into simple, elegant solutions.</p>
   <p><em>Currently exploring the worlds of Go and Rust!</em></p>
+  
+  <!-- GIF Kanan, diletakkan setelah teks -->
+  <img src="https://media.tenor.com/RvfX49xRRYoAAAAM/silly-silly-anime.gif" width="130px" align="right" style="margin-left: 20px;">
 </div>
 
-<!-- GIF Diletakkan di Bawah Teks (Pasti Rapi di HP) -->
-<p align="center">
-  <img src="https://media.tenor.com/ipuTozw3PXsAAAAj/pixel-cat.gif" width="150px" alt="Pixel Cat">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/RvfX49xRRYoAAAAM/silly-silly-anime.gif" width="150px" alt="Silly Anime">
-</p>
+<!-- Ini penting agar layout di bawahnya tidak rusak -->
+<br clear="all">
 
 <!-- Garis Pemisah -->
 <p align="center">
