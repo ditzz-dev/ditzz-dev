@@ -1,6 +1,6 @@
-<!-- Header Anime -->
+<!-- Header Anime (Stabil) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1a/0c/30/1a0c30a57c5251a1405a2bdd569e2b14.gif" width="100%" alt="Anime Scenery Banner"/>
+  <img src="https://i.pinimg.com/originals/a4/6a/51/a46a5124c6536b322304d9c759e6f54c.gif" width="100%" alt="Anime Scenery Banner"/>
 </p>
 
 <!-- Typing Animation -->
@@ -10,13 +10,13 @@
   </a>
 </div>
 
-<!-- Animated Icons (Bintang, Pixel Art, Kucing) -->
+<!-- Animated Icons (Link Baru & Stabil) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKS022a2228s4g0/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/J46nB0s2HwS4w/giphy.gif" width="120">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.pinimg.com/originals/a4/6a/51/a46a5124c6536b322304d9c759e6f54c.gif" width="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejE2d2FsdG55bm55cWd2cmFwMmVycjRscW11dXh4a2l4MnY3MnR2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9hFTaEw/giphy.gif" width="150">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Yu-Saki/Yu-Saki/main/assets/images/cat-typing.gif" width="150">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120">
 </p>
 
 ---
@@ -37,6 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ditzz-dev&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="ditzz-dev's GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ditzz-dev&theme=tokyonight" alt="ditzz-dev's GitHub Streak" width="48%"/>
   <br><br>
+  <!-- Bagian ini akan terisi otomatis nanti -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditzz-dev&layout=compact&theme=tokyonight" alt="Top Languages" width="400px"/>
 </p>
 
@@ -45,6 +46,7 @@
 ### 🕹️ **Kontribusi Pac-Man**
 
 <p align="center">
+  <!-- Gambar ini akan muncul setelah Langkah 2 di bawah ini dijalankan -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ditzz-dev/ditzz-dev/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ditzz-dev/ditzz-dev/output/pacman-contribution-graph.svg">
