@@ -6,6 +6,10 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# ---> TAMBAHKAN BAGIAN INI UNTUK MEMBERI IZIN <---
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,7 +21,6 @@ jobs:
       - uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # ID untuk game. Pilih salah satu: github-dark, anaconda, pacman
           game_id: pacman
           outputs: |
             dist/pacman-contribution-graph.svg
